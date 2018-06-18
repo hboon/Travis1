@@ -24,7 +24,8 @@ platform :ios do
       #scheme: "Travis1Tests",
       scheme: "Travis1",
       #devices: ["iPhone 5s", "iPhone X", "iPad Pro (12.9-inch)"],
-      device: "iPhone 5s",
+      device: "iPhone X",
+      #device: "iPhone 5s",
       #devices: ["iPhone 5s iOS 11.2"], #not ok locally
       #devices: ["iPhone 5s iOS 11.3"], #ok locally
       clean: false
